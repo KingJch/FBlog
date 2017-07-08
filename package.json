@@ -1,0 +1,28 @@
+{
+  "name": "fblog",
+  "version": "1.0.0",
+  "description": "blog",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node ./app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KingJch/FBlog.git"
+  },
+  "keywords": [
+    "vuejs2",
+    "koa2",
+    "mysql"
+  ],
+  "author": "jch",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KingJch/FBlog/issues"
+  },
+  "homepage": "https://github.com/KingJch/FBlog#readme",
+  "dependencies": {
+    "koa": "^2.3.0"
+  }
+}
